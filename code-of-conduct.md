@@ -24,9 +24,9 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Organizers and presenters are also subject to the anti-harassment policy. In particular, they should not use sexualized images, activities, or other material.
 
-If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender, expulsion from the event with no refund or not being allowed to participate in future events.
-
 Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
+
+If a participant engages in harassing behaviour, event organisers have the responsibility to remind the offender about Brainhack's Code of Conduct, and warn them that repeated inappropriate, uncivil, threatening, offensive, or harmful behavior can lead to a temporary or permanent ban from the event with no refund. The offending person(s) may also see affected their participation in future Brainhack events.
 
 We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
 
