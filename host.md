@@ -96,7 +96,7 @@ Some explanation/comments:
 For international events, participants will appreciate to have recommendations about where to stay. Critical factors for most attendees will be (1) proximity to the location; (2) costs. Some venues in the past have offered lodging onsite for all participants. This is a very uncommon opportunity, but does help a lot to infect energy in the hackathon, because people do not hesitate to stay late.
 # Website and registration
 
-You will need a website describing the event, and an online registration procedure. Ideally, the registration would roll until the day of the event, and it would be possible to register onsite. Brainhack webpages are hosted on github at: [https://github.com/brainhackorg](https://github.com/brainhackorg). To create a new web page, contact info@brainhack.org to have a new repository created for you with a copy of a template from a previous event.
+You will need a website describing the event, and an online registration procedure. Ideally, the registration would roll until the day of the event, and it would be possible to register onsite. Brainhack webpages are hosted on github at: [https://github.com/brainhackorg](https://github.com/brainhackorg). To create a new web page, contact brainhackorg@gmail.com to have a new repository created for you with a copy of a template from a previous event.
 
 Example of previous websites:
 [http://events.brainhack.org/OHBM2016/](http://events.brainhack.org/OHBM2016/)
@@ -128,7 +128,7 @@ Here is an example of email we used in the past:
 
     Thanks to generous funding from our sponsors, $500 travel awards will be available for a limited number of students and post docs. The application deadline for awards is July 31.
 
-    Email [info@brainhack.org](mailto:info@brainhack.org) for more information.
+    Email [brainhackorg@gmail.com](mailto:brainhackorg@gmail.com) for more information.
 
 # Projects, slack and hackpad
 
@@ -191,7 +191,7 @@ Here is an example of announcement email that can be adapted:
 
 # Publications
 
-Finally, brainhack participants have the opportunity to submit a short project report for publication as part of the brainhack proceedings, edited by Gigascience. Contact info@brainhack.org or check brainhack.org for details on the latest issue.
+Finally, brainhack participants have the opportunity to submit a short project report for publication as part of the brainhack proceedings, edited by Gigascience. Contact brainhackorg@gmail.com or check brainhack.org for details on the latest issue.
 # Contributions
 
 The concept of brainhack has been defined and continuously refined since 2012 by the brainhack community, and was started by a collective operating under the name "Neurobureau" (neurobureau.org). A non-exhaustive list of contributors can be found in the author list of [Craddock et al. (2016)](https://dx.doi.org/10.1186/s13742-016-0121-x).
