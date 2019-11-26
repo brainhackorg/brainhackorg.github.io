@@ -5,7 +5,7 @@ date: 2020-01-21 09:00:00
 big: 1
 project_categories: Events 2020
 image: OpenMRBenelux2020.png
-description: OpenMR Benelux 2020 will take place from January 21st-23rd at the <a href="https://www.ru.nl/donders/">Donders Institute for Cognition, Brain and Behaviour</a> in Nijmegen, The Netherlands.
+description: OpenMR Benelux 2020 will take place from January 21st-23rd at the Donders Institute for Cognition, Brain and Behaviour in Nijmegen, The Netherlands.
 ---
 
 Location: <a href="https://www.ru.nl/donders/">Donders Institute for Cognition, Brain and Behaviour</a> in Nijmegen, The Netherlands
