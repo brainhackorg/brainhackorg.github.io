@@ -983,7 +983,7 @@ margin: 2px 0 14px 2px; */
 }
 
 .entry-thumbnail img {	
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
