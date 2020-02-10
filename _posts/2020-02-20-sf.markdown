@@ -1,0 +1,23 @@
+---
+layout: post
+title: "San Francisco Brainhack 2020"
+date: 2020-02-20 09:00:00
+big: 1
+project_categories: Events 2020
+image: SF_brainhack_3.png
+description: San Francisco Brainhack 2020 will take place from February 20th and 21st 2020 at UCSF Mission Bay Campus. Follow the tracks and dive deep!
+---
+
+Location: [UCSF Mission Bay Campus](https://goo.gl/maps/RJrEoKtC1jegxcee9)
+
+URL: [https://sfbrainhack.github.io/](https://sfbrainhack.github.io/)
+
+Description: join us to hack, analyze, build, learn, ask questions, and make new friends!
+This year, we will focus on brain tracts (diffusion tensor imaging) & deep learning.
+The two talks, DTI (by UCSF Dep. Neurology's expert Dr. Mandelli) and Deep Learning (by UCSF Dep. Radiology's expert Dr. Pedoia), will be live-streamed as well
+(DTI: [https://ucsf.zoom.us/j/685277366](https://ucsf.zoom.us/j/685277366); Deep Learning: [https://ucsf.zoom.us/j/288710093](https://ucsf.zoom.us/j/288710093)).
+The rest of the time will be dedicated to free hacking. 
+
+[Register now!](https://www.eventbrite.com/e/brainhack-global-san-francisco-2019-postponed-tickets-76825419899)
+
+Contact information:  valentina[dot]borghesani[at]ucsf[dot]edu
