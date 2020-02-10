@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Brainhack in Bordeaux 2020"
+date: 2020-04-01 09:00:00
+big: 1
+project_categories: Events 2020
+image: brainhack_bordeaux_2020.png
+description: Brainhack in Bordeaux 2020 will take place from April 1st to 3rd 2020 at INRIA Bordeaux Research Center.
+---
+
+Location: INRIA Bordeaux Research Center, France
+
+URL: [https://brainhack-vienna.github.io/](https://brainhack-vienna.github.io/)
+
+Description: Brainhack Bordeaux will be promoting the interaction between scientists,
+developers, and artists interested in the brain. Questions can evolve around the 
+investigation of brain anatomy and function based on non-invasive imaging methods (e.g. MRI, nTMS) 
+and intraoperative brain mapping methods, or post mortem dissection the evolution of nervous systems 
+across species the variability of brain features across healthy participants the insurgence of 
+brain pathologies and there is no limit to artistic reflections in any form of art.
+
+Contact information: brainconnectivitybehaviour@gmail.com
