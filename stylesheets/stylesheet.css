@@ -982,6 +982,11 @@ footer a:hover {
   background: url(../assets/images/overlay.png) no-repeat;
 }
 
+.entry-thumbnail img {	
+  max-width: 100%;
+  height: auto;
+}
+
 
 div.category
 {
