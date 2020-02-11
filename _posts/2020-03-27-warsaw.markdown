@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Warsaw Brainhack 2020"
+date: 2020-03-27 09:00:00
+big: 1
+project_categories: Events 2020
+image: brainhack_warsaw_2020.png
+description: Warsaw Brainhack 2020 will take place from March 27th to 29st 2020 at University of Warsaw.
+---
+
+Location: University of Warsaw, Physics Department
+
+URL: [https://brainhackwarsaw.github.io/](https://brainhackwarsaw.github.io/)
+
+Description: Brainhack Warsaw is an almost three-day event with lectures, and primarily projects. The event aims to meet new, enthusiastic researchers, make new friendships in academia, learn, share the knowledge and also promote open science in the spirit of the whole Brainhack community (Craddock et al., 2016). Projects are mainly connected with neuroscience, data processing, and machine learning but we are also open to other subjects. Attendees of various backgrounds are welcome to join!
+
+At Brainhack Warsaw we believe that creativity is a key factor of success. We think that science, programming, and art are similar in their nature. Art doesn’t care about hierarchy. Nor we do. There are paths yet to be discovered and boundaries yet to be transgressed. Brainhack Warsaw is open for everyone. People from academia, artists, data scientists, physicists, biologists, poets, psychologists, females, males, religious, atheists. There’s only one thing that matters: creativity.
+
+Contact information: 
+* brainhackwarsaw@gmail.com
+* [https://www.facebook.com/brainhackWAW/](https://www.facebook.com/brainhackWAW/)
+* [https://twitter.com/BrainhackW](https://twitter.com/BrainhackW)
