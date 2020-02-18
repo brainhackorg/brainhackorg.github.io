@@ -10,7 +10,7 @@ description: Brainhack in Bordeaux 2020 will take place from April 1st to 3rd 20
 
 Location: INRIA Bordeaux Research Center, France
 
-URL: [https://brainhack-vienna.github.io/](https://brainhack-vienna.github.io/)
+URL: [http://www.bcblab.com/BCB/Events/Entries/2020/4/1_BrainHack_in_Bordeaux__the_functional_architecture_of_the_brain.html](http://www.bcblab.com/BCB/Events/Entries/2020/4/1_BrainHack_in_Bordeaux__the_functional_architecture_of_the_brain.html)
 
 Description: Brainhack Bordeaux will be promoting the interaction between scientists,
 developers, and artists interested in the brain. Questions can evolve around the 
