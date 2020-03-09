@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Geneva Brainhack 2020"
-date: 2020-02-27 09:00:00
+date: Postponed to a further date
 big: 1
 project_categories: Events 2020
 image: geneva_2020.png
-description: Geneva Brainhack 2020 will take place from February 27th to 28th 2020 at University of Campus Biotech, Geneva, Switzerland.
+description: Geneva Brainhack 2020 at University of Campus Biotech, Geneva, Switzerland.
 ---
 
 Location: Campus Biotech, Geneva, Switzerland
 
 URL: [https://www.brainhack.ch](https://www.brainhack.ch)
 
-Description: Come and join our 2-day ½ Brainhack on March Friday 27th / Saturday 28th with project piched on the Thursday 26th late afternoon! While all projects will deal with the brain, quite a few will explore beyond imaging, and you can even propose your own. Everyone is welcome, whatever their background. For more information, and to join us, check out our website at [www.brainhack.ch](www.brainhack.ch)
+Description: The event is aimed to be run within the 2020 but the exact dates of the event will be advertised later. This event allows projects will deal with the brain, quite a few will explore beyond imaging, and you can even propose your own. Everyone is welcome, whatever their background. For more information, and to join us, check out our website at [www.brainhack.ch](www.brainhack.ch)
 
 Contact information: 
 * michael.dayan@fcbg.ch
