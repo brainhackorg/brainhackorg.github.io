@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Warsaw Brainhack 2020"
-date: 2020-03-27 09:00:00
+date: 2020-12-31 09:00:00
 big: 1
 project_categories: Events 2020
 image: brainhack_warsaw_2020.png
-description: Warsaw Brainhack 2020 will take place from March 27th to 29st 2020 at University of Warsaw.
+description: Warsaw Brainhack 2020 will take place at University of Warsaw. The event is expected to run at a yet unspecified date during 2020, the necessary announcement will be made in the future. 
 ---
 
 Location: University of Warsaw, Physics Department
