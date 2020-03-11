@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warsaw Brainhack 2020"
-date: N/A 09:00:00
+date: 2020-12-31 09:00:00
 big: 1
 project_categories: Events 2020
 image: brainhack_warsaw_2020.png
