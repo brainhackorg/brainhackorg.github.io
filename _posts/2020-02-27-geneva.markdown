@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geneva Brainhack 2020"
-date: Postponed to a further date
+date: 2020-12-31 09:00:00
 big: 1
 project_categories: Events 2020
 image: geneva_2020.png
@@ -12,7 +12,7 @@ Location: Campus Biotech, Geneva, Switzerland
 
 URL: [https://www.brainhack.ch](https://www.brainhack.ch)
 
-Description: The event is aimed to be run within the 2020 but the exact dates of the event will be advertised later. This event allows projects will deal with the brain, quite a few will explore beyond imaging, and you can even propose your own. Everyone is welcome, whatever their background. For more information, and to join us, check out our website at [www.brainhack.ch](www.brainhack.ch)
+Description: The event is expected to run at a yet unspecified date during 2020. The exact dates will be announced through the event's website. This event allows projects will deal with the brain, quite a few will explore beyond imaging, and you can even propose your own. Everyone is welcome, whatever their background. For more information, and to join us, check out our website at [www.brainhack.ch](www.brainhack.ch)
 
 Contact information: 
 * michael.dayan@fcbg.ch
