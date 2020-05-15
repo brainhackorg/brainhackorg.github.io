@@ -1,0 +1,21 @@
+---
+layout: post
+title: "OHBM Brainhack 2020"
+date: 2020-06-16 09:00:00
+big: 1
+project_categories: Events 2020
+image: brainhack_ohbm_2020.png
+description: For this edition, OHBM Brainhack will be held online!
+---
+
+URL: [https://ohbm.github.io/hackathon2020/](https://ohbm.github.io/hackathon2020/)
+
+Description: At the OHBM Brainhack, members of the community gather to work collaboratively on common projects.
+The event also features a TrainTrack in which tutorials on open science practices are provided.
+
+Brainhacks differ from the typical academic conference in that attendees can actively take part in the 
+program and co-learn from each other. Thus, they will be actively trying to create something rather
+than passively attend. Although many brainhack projects might involve coding, it is not a 
+requirement and many projects can be done without coding skills.
+
+Contact information: ossig2019@inria.fr
