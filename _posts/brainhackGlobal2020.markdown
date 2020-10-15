@@ -3,7 +3,7 @@ layout: post
 title:  "Brainhack Global 2020"
 date:   2020-11-30 13:53
 project_categories: Events 2020
-image: brainhackGlobal_2020_222x180.png
+image: bhack_global_2020.png
 big: 1
 description: Virtual Brainhack events occuring at multiple sites globally run through 30th November - 13th December.
 ---
