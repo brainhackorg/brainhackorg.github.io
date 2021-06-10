@@ -1,0 +1,20 @@
+---
+layout: post
+title: "OHBM Brainhack 2021"
+date: 2021-06-16 09:00:00
+big: 1
+project_categories: Events 2021
+image: brainhack_ohbm_2021.jpg
+description: For this edition, OHBM Brainhack will be held online!
+---
+
+URL: [https://ohbm.github.io/hackathon2021/](https://ohbm.github.io/hackathon2021/)
+
+Description: The OHBM Brainhack is back! It will be a virtual event for the second year in a row, 
+and we introducing many exciting additions: the educational sessions (TrainTrack) will include both 
+pre-recorded material, made available before the event, but also live Q&As and hands-on sessions! 
+
+And the project-oriented sessions (HackTrack) will be able to benefit from the support of QMENTA!
+Do you want to be part of the organization? Check the website, we are looking for volunteers!
+
+Contact information: ohbmopenscience@gmail.org
