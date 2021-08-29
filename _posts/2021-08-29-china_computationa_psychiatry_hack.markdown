@@ -16,3 +16,4 @@ The slogan is ‘Get hands dirty, learn by doing!’.
 
 Contact information: genghy@hku.hk, Dr. Haiyang Geng, Postdoc researcher at the Department of Psychology, University of Hong Kong
 
+[1] Gagne, C., Zika, O., Dayan, P., & Bishop, S. J. (2020). Impaired adaptation of learning to contingency volatility in internalizing psychopathology. ELife, 9, e61387. https://doi.org/10.7554/eLife.61387
