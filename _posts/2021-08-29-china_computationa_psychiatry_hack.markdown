@@ -4,7 +4,7 @@ title: "1st Computational Psychiatry Hack @ China 2021"
 date: 2021-08-29 09:00:00
 big: 1
 project_categories: Events 2021
-image: china_hack_2021.jpg
+image: china_hack_2021.png
 description: Get hands dirty, learn by doing!
 ---
 
