@@ -16,6 +16,7 @@ These collaborative workshops combine elements of Hackathons and Unconferences, 
 <ul>
   <li><a href="http://dx.doi.org/10.1186/s13742-016-0121-x">Craddock et al. (2016). <strong>Brainhack: a collaborative workshop for the open neuroscience community.</strong> <em>GigaScience, 5(1), pp. 1–8.</em></a></li>
   <li><a href="https://thewinnower.com/papers/5577-a-step-by-step-guide-for-organizing-open-collaborative-brainhack-events">The Neuro Bureau (2016). <strong>A step by step guide for organizing open collaborative “Brainhack” events.</strong> <em>the Winnower</em></a></li>
+  <li><a href="https://doi.org/10.1016/j.neuron.2021.04.001">Gau et al. (2020). <strong>Brainhack: Developing a culture of open, inclusive, community-driven neuroscience.</strong> <em>Neuron, 109(11), pp. 1769-1775</em></a></li>
 </ul>
 
 ## Who is Brainhack.org?
