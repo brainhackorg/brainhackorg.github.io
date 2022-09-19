@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Brainhack Krakow"
-date: 2022-10-21 10:00:00
+title: "Brainhack Krakow 2022"
+date: 2022-09-18 10:00:00
 big: 1
 project_categories: Events 2022
 image: brainhack_krakow_2022.jpg
