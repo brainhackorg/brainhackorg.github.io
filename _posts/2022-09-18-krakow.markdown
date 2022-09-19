@@ -10,16 +10,16 @@ description: Join us in Krakow for a Brainhack on brain simulations in health an
 
 URL: [https://www.brainhack-krakow.org](https://www.brainhack-krakow.org)
 
-Description: Brainhack Krakow will take place on 21-23.10.2022, at the Institute of Psychology, Jagiellonian University. The registration of team members started on 04.05.2022 and will last until 20.09.2022.
+Description: Brainhack Krakow will take place on 21-23.10.2022, at the Institute of Psychology, Jagiellonian University. The registration of team members started on 04.05.2022 and will last until 20.09.2022.  
  
-We will focus on projects dealing with modeling brain activity, cognitive processes or other inter-individual characteristics, based on neuroscience data from open access repositories. Full list of projects can be found: https://www.brainhack-krakow.org/projects
+We will focus on projects dealing with modeling brain activity, cognitive processes or other inter-individual characteristics, based on neuroscience data from open access repositories. Full list of projects can be found: https://www.brainhack-krakow.org/projects  
  
-The aim of the Brainhack is to learn, share the knowledge on data mining, machine learning and brain research and meet new, enthusiastic researchers, make new friendships in academia. Our event also promotes open science in the spirit of the whole Brainhack community. Attendees of various backgrounds are welcome to join, mainly from computer science, neurobiology, cognitive sciences and psychology!
+The aim of the Brainhack is to learn, share the knowledge on data mining, machine learning and brain research and meet new, enthusiastic researchers, make new friendships in academia. Our event also promotes open science in the spirit of the whole Brainhack community. Attendees of various backgrounds are welcome to join, mainly from computer science, neurobiology, cognitive sciences and psychology!  
  
-We encourage you to participate in the Brainhack Krakow 2022. 
-Team members registration: 04.05.2022- 20.09.2022. 
+We encourage you to participate in the Brainhack Krakow 2022.  
+Team members registration: 04.05.2022- 20.09.2022.  
  
-More information can be found on our website and social media:
-https://www.brainhack-krakow.org/ 
-https://twitter.com/BrainhackKrakow
-https://fb.me/e/1zs0bxjZQ
+More information can be found on our website and social media:  
+https://www.brainhack-krakow.org/   
+https://twitter.com/BrainhackKrakow  
+https://fb.me/e/1zs0bxjZQ  
