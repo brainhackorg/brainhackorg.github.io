@@ -10,7 +10,7 @@ description: Join us in Krakow for a Brainhack on brain simulations in health an
 
 URL: [https://www.brainhack-krakow.org](https://www.brainhack-krakow.org)
 
-Description: Brainhack Krakow will take place on 21-23.10.2022, at the Institute of Psychology, Jagiellonian University. The registration of team members started on 04.05.2022 and will last until 20.09.2022.  
+Description: Brainhack Krakow will take place on 21-23.10.2022, at the Institute of Psychology, Jagiellonian University. Registration is open until 2 Oct 2022.  
  
 We will focus on projects dealing with modeling brain activity, cognitive processes or other inter-individual characteristics, based on neuroscience data from open access repositories. Full list of projects can be found: https://www.brainhack-krakow.org/projects  
  
