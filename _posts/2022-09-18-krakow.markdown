@@ -17,7 +17,7 @@ We will focus on projects dealing with modeling brain activity, cognitive proces
 The aim of the Brainhack is to learn, share the knowledge on data mining, machine learning and brain research and meet new, enthusiastic researchers, make new friendships in academia. Our event also promotes open science in the spirit of the whole Brainhack community. Attendees of various backgrounds are welcome to join, mainly from computer science, neurobiology, cognitive sciences and psychology!  
  
 We encourage you to participate in the Brainhack Krakow 2022.  
-Team members registration: 04.05.2022- 20.09.2022.  
+Team members registration: 04.05.2022-02.10.2022  
  
 More information can be found on our website and social media:  
 https://www.brainhack-krakow.org/   
