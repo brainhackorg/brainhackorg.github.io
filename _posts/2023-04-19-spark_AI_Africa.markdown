@@ -5,8 +5,7 @@ date: May 22nd to May 26th, 2023
 big: 1
 project_categories: Events 2023
 image: spark_africa_2023.png
-description: The Sprint AI Training for African Medical Imaging
-Knowledge Translation (SPARK) Academy
+description: The Sprint AI Training for African Medical Imaging Knowledge Translation (SPARK) Academy
 ---
 
 URL: [https://event.fourwaves.com/spark/pages](https://event.fourwaves.com/spark/pages)
