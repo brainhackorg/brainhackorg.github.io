@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neuroscience Alliance (NEURAL) OHBM"
-date: 2023-05-9 10:00:00
+date: 2023-04-19 00:00:00
 big: 1
 project_categories: Events 2023
 image: neural_ohbm_ea.png
