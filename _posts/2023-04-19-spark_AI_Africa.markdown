@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SPARK Academy Africa-BraTS BrainHack 2023"
-date: 2023-05-19 00:00:00
+date: 2023-04-19 00:00:00
 big: 1
 project_categories: Events 2023
 image: spark_africa_2023.png
