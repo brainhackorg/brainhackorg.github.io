@@ -22,7 +22,23 @@ Brain Tumor Segmentation (BraTS) Challenge. The top 3 teams from Africa
 will win monetary prizes (up to $5000 per team).
 We will offer a training facility for this hackathon and provide meals
 during the full-day events. All live training events are in East Africa
-Time (EAT). 
+Time (EAT).
+
+
+### Locations:
+- Medical Artificial Intelligence (MAI) Lab, Crestview Radiology Ltd.,
+Lagos, Nigeria
+- African Centre of Excellence in Data Science (ACEDS), University of
+Rwanda, Kigali, RW
+- Diagnostic Imaging Research Centre, University For Development
+Studies, Tamale, Ghana
+- AI & Biomedical Imaging Lab, JiT, Jimma University, Jimma, Ethiopia
+- Division of Biomedical Engineering, University of Cape Town, Cape
+Town, South Africa
+- Federal University of Technology, Minna, Nigeria*
+- Muhimbili Orthopedic Institute, University of Dar es Salaam, Tanzania
+- Mboalab Biotech, Yaounde, Cameroon
+- Brain & Mind Institute, AKU, Nairobi, Kenya
 
  
 More information can be found on our website
