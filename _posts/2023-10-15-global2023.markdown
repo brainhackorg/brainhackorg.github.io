@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Brainhack Global 2023"
+date:   2023-11-28 13:53
+project_categories: Events 2023
+image: brainhack_2023_image.png
+
+big: 1
+description: Hybird (Virtual and/or In-person) Brainhack events occuring at all around the world run through 4th - 15th December.
+---
+## Summary
+You are invited to attend [Brainhack Global 2023](http://brainhack.org/global2023) at one of the regional events occuring accross the globe.
+
+[Brainhack](http://brainhack.org) is a unique conference that convenes researchers from myriad disciplines to work together on innovative projects related to neuroscience. Brainhack Global will host several simultaneous to build a critical mass for the regional Brainhack movement and provide opportunities for inter-Brainhack collaboration. Local events will be connected by videoconference to expand collaborative opportunities so that smaller sites can plug into the content and energy generated at larger sites.
+
+In addition to time spent collaborating on neuroscience projects, activities at the Brainhack will include:
+
+- Tutorials on basic software development skills called “Brainhacking 101”
+- Keynotes from neuroscience and methods researchers
+- Open conference sessions during which attendees can present their research
+
+Refer to the [Brainhack Global 2023 Events](https://brainhack.org/global2023/events/) page for a complete list of locations.
+
+## Contact
+Please refer to [Host Your Own Local Brainhack](https://brainhack.org/global2023/events/#host-your-own-local-brainhack) to register for a local event and please pass this invitation on to your friends and colleagues.
