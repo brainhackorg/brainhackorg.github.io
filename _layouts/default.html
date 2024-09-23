@@ -4,130 +4,130 @@ layout: default
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-    <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
-    <script type="text/javascript" src="/javascripts/isotope.pkgd.js"></script>
-    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-    <link rel="stylesheet" href="/stylesheets/bootstrap.min.css" type="text/css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/octicons.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
-    <link rel="stylesheet" href="/stylesheets/bib-publication-list.css"/>
-    <link rel="stylesheet" href="/stylesheets/default/default.css" type="text/css" media="screen" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+  <script type="text/javascript" src="/javascripts/isotope.pkgd.js"></script>
+  <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
 
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-      try {
-        var pageTracker = _gat._getTracker("UA-53194826-1");
-        pageTracker._trackPageview();
-      } catch(err) {}
-    </script>
+  <link rel="stylesheet" href="/stylesheets/bootstrap.min.css" type="text/css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/stylesheets/octicons.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
+  <link rel="stylesheet" href="/stylesheets/bib-publication-list.css" />
+  <link rel="stylesheet" href="/stylesheets/default/default.css" type="text/css" media="screen" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
-    <title>Brainhack</title>
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("UA-53194826-1");
+      pageTracker._trackPageview();
+    } catch (err) { }
+  </script>
 
-  </head>
+  <title>Brainhack</title>
 
-  <body>
-    <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
-    <div class="container-bhack" >
-      <img src="/assets/images/brainhack_header.png" id="logo">
-      <nav class="navbar navbar-bhack">
-        <!-- <div class="container-fluid"> -->
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav nopad-left">
-              {% if layout.navbar == true %}
-                <li class="nopad-left"><input type="text" class="quicksearch" placeholder="SEARCH PROJECTS" /></li>
-              {% else %}
-                <li class="nopad-left"><a href="/index.html">PROJECTS</a></li>
-              {% endif %}
-              <li class="nopad-left"><a href="/submission.html">+SUBMIT PROJECT</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="https://www.brainhack-krakow.org/" target="_blank">Brainhack Krakow 2022</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="http://www.brainhack.org/global2019/" target="_blank">Brainhack Global 2019</a></li>
-                  <li><a href="https://neurodata.devpost.com/" target="_blank">NeuroData Workshop 2019</a></li>
-                  <li><a href="https://brainhackdonostia.pages.bcbl.eu/" target="_blank">Brainhack Donostia 2019</a></li>
-                  <li><a href="https://brainhack.ch/" target="_blank">Brainhack Open Geneva 2019</a></li>
-                  <li role="separator" class="divider"></li>
-		  <li><a href="http://www.bcblab.com/BCB/Events/Entries/2018/12/5_BrainHack_in_Padova__The_Evolution_of_the_Mind_and_the_Brain.html" target="_blank">Brainhack in Padova: Evolution</a></li>
-                  <li><a href="https://labrainhack.github.io/" target="_blank">LA Brainhack 2018</a></li>
-                  <li><a href="http://www.brainhackzurich.ch/" target="_blank">Brainhack Zurich 2018</a></li>
-                  <li><a href="http://ohbm.github.io/hackathon2018" target="_blank">OHBM Brainhack 2019</a></li>
-                  <li><a href="http://brainhack-networks.com" target="_blank">Brainhack Networks 2018</a></li>
-                  <li><a href="http://www.brainhack.org/global2018" target="_blank">Brainhack Global 2018</a></li>
-                  <li><a href="http://www.bcblab.com/BCB/Events/Entries/2018/2/19_BrainHack_in_Paris__Anatomy.html" target="_blank">Brainhack Paris: Anatomy 2018</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="http://brainhack.org/global2017" target="_blank">Brainhack Global 2017</a></li>
-                  <li><a href="http://www.cbs.mpg.de/events/11617/339335" target="_blank">Brainhack Gradients. Leipzig 2017</a></li>
-                  <li><a href="http://neuroanatomy.github.io/events/brainhack-lesions/" target="_blank">Brainhack: Lesions. Paris 2017</a></li>
-                  <li><a href="http://brainhackghent.wixsite.com/brainhackghent" target="_blank">Brainhack Ghent 2017</a></li>
-                  <li><a href="https://www.brainhacklondon.eu" target="_blank">Brainhack London - Clinical Neuroanatomy 2017</a></li>
-                  <li><a href="https://brainhack101.github.io/deepbrainhack2017/" target="_blank">Deep Brainhack (Montreal) 2017</a></li>
-                  <li><a href="https://brainhackwarsaw.github.io/" target="_blank">AoN Brainhack Warsaw 2017</a></li>
-                  <li><a href="http://www.brainhack.org/DC2017/" target="_blank">Brainhack DC 2017</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="http://neuroanatomy.github.io/events/brainhack/" target="_blank">Brainhack: Anatomy. Paris 2016</a></li>
-                  <li><a href="http://brainhack.org/OHBM2016" target="_blank">OHBM Hackathon 2016 (Lausanne)</a></li>
-                  <li><a href="http://brainhack.org/vienna" target="_blank">Brainhack Vienna 2016</a></li>
-                  <!-- <li><a href="URL" target="_blank">Brainhack@Paris 2016</a></li>-->
-                  <li><a href="http://brainhack.org/LA2016" target="_blank">Brainhack LA 2016</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="http://brainhack.org/hackathon2015/" target="_blank">OHBM Hackathon 2015 (Honolulu)</a></li>
-                  <li><a href="https://www.rbiq-qbin.qc.ca/en/event/3790" target="_blank">Brainhack Montréal 2015</a></li>
-                  <li><a href="http://brainhack.org/americas/" target="_blank">Brainhack Americas 2015</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="http://brainhack.org/hackathon2014/" target="_blank">OHBM Hackathon 2014 (Berlin)</a></li>
-                  <li><a href="http://brainhack.org/brainhack-edt" target="_blank">Brainhack Eastern Daylight Time 2014</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="http://brainhack.org/brainhack-2013" target="_blank">Brainhack 2013 (Paris)</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="http://www.cbs.mpg.de/events/workshops/brainhack" target="_blank">2012 Brainhack & Unconference (Leipzig)</a></li>
-                </ul>
-              </li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PROCEEDINGS<span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="/proceedings_2018.html">2018</a></li>
-                  <li><a href="/proceedings_2016.html">2016</a></li>
-                  <li><a href="/proceedings_2015.html">2015</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="/thematic_series.html">Gigascience Thematic Series</a></li>
+</head>
 
-
-                </ul>
-              </li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">LEARN MORE<span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="/about.html">About</a></li>
-                  <li><a href="/host.html">Host a Brainhack</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li><a href="/lectures.html">Video Lectures</a></li>
-                  <li><a href="/tutorials.html">Coding Tutorials</a></li>
-                </ul>
-              </li>
-
-              <li><a href="https://mattermost.brainhack.org/">JOIN MATTERMOST CHANNEL</a></li>
-              <li><a href="/code-of-conduct.html">CODE OF CONDUCT</a></li>
+<body>
+  <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+  <div class="container-bhack">
+    <img src="/assets/images/brainhack_header.png" id="logo">
+    <nav class="navbar navbar-bhack">
+      <!-- <div class="container-fluid"> -->
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav nopad-left">
+          <li class="nopad-left"><a href="/index.html">PROJECTS & EVENTS</a></li>
+          <li><a href="/about.html">ABOUT</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">GET INVOLVED<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/promotion.html">Promote a Project/Event</a></li>
+              <li><a href="/host.html">How to host a Brainhack</a></li>
+              <li><a href="/global.html">BrainHack Global</a></li>
             </ul>
-          </div><!-- /.navbar-collapse -->
-        <!-- </div><!-- /.container-fluid -->
-      </nav>
-    </div>
+          </li>
+          <li><a href="/code-of-conduct.html">CODE OF CONDUCT</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">TUTORIALS<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/lectures.html">Video Lectures</a></li>
+              <li><a href="/tutorials.html">Coding Tutorials</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">ARCHIVE<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/proceedings_2018.html">2018 Proceedings</a></li>
+              <li><a href="/proceedings_2016.html">2016 Proceedings</a></li>
+              <li><a href="/proceedings_2015.html">2015 Proceedings</a></li>
+              <li><a href="/thematic_series.html">Gigascience Thematic Series</a></li>
+              <li><a href="https://www.brainhack-krakow.org/" target="_blank">Brainhack Krakow 2022</a></li>
+              <li><a href="http://www.brainhack.org/global2019/" target="_blank">Brainhack Global 2019</a></li>
+              <li><a href="https://neurodata.devpost.com/" target="_blank">NeuroData Workshop 2019</a></li>
+              <li><a href="https://brainhackdonostia.pages.bcbl.eu/" target="_blank">Brainhack Donostia 2019</a></li>
+              <li><a href="https://brainhack.ch/" target="_blank">Brainhack Open Geneva 2019</a></li>
+              <li><a
+                  href="http://www.bcblab.com/BCB/Events/Entries/2018/12/5_BrainHack_in_Padova__The_Evolution_of_the_Mind_and_the_Brain.html"
+                  target="_blank">Brainhack in Padova: Evolution</a></li>
+              <li><a href="https://labrainhack.github.io/" target="_blank">LA Brainhack 2018</a></li>
+              <li><a href="http://www.brainhackzurich.ch/" target="_blank">Brainhack Zurich 2018</a></li>
+              <li><a href="http://ohbm.github.io/hackathon2018" target="_blank">OHBM Brainhack 2019</a></li>
+              <li><a href="http://brainhack-networks.com" target="_blank">Brainhack Networks 2018</a></li>
+              <li><a href="http://www.brainhack.org/global2018" target="_blank">Brainhack Global 2018</a></li>
+              <li><a href="http://www.bcblab.com/BCB/Events/Entries/2018/2/19_BrainHack_in_Paris__Anatomy.html"
+                  target="_blank">Brainhack Paris: Anatomy 2018</a></li>
+              <li><a href="http://brainhack.org/global2017" target="_blank">Brainhack Global 2017</a></li>
+              <li><a href="http://www.cbs.mpg.de/events/11617/339335" target="_blank">Brainhack Gradients. Leipzig
+                  2017</a></li>
+              <li><a href="http://neuroanatomy.github.io/events/brainhack-lesions/" target="_blank">Brainhack: Lesions.
+                  Paris 2017</a></li>
+              <li><a href="http://brainhackghent.wixsite.com/brainhackghent" target="_blank">Brainhack Ghent 2017</a>
+              </li>
+              <li><a href="https://www.brainhacklondon.eu" target="_blank">Brainhack London - Clinical Neuroanatomy
+                  2017</a></li>
+              <li><a href="https://brainhack101.github.io/deepbrainhack2017/" target="_blank">Deep Brainhack (Montreal)
+                  2017</a></li>
+              <li><a href="https://brainhackwarsaw.github.io/" target="_blank">AoN Brainhack Warsaw 2017</a></li>
+              <li><a href="http://www.brainhack.org/DC2017/" target="_blank">Brainhack DC 2017</a></li>
+              <li><a href="http://neuroanatomy.github.io/events/brainhack/" target="_blank">Brainhack: Anatomy. Paris
+                  2016</a></li>
+              <li><a href="http://brainhack.org/OHBM2016" target="_blank">OHBM Hackathon 2016 (Lausanne)</a></li>
+              <li><a href="http://brainhack.org/vienna" target="_blank">Brainhack Vienna 2016</a></li>
+              <!-- <li><a href="URL" target="_blank">Brainhack@Paris 2016</a></li>-->
+              <li><a href="http://brainhack.org/LA2016" target="_blank">Brainhack LA 2016</a></li>
+              <li><a href="http://brainhack.org/hackathon2015/" target="_blank">OHBM Hackathon 2015 (Honolulu)</a></li>
+              <li><a href="https://www.rbiq-qbin.qc.ca/en/event/3790" target="_blank">Brainhack Montréal 2015</a></li>
+              <li><a href="http://brainhack.org/americas/" target="_blank">Brainhack Americas 2015</a></li>
+              <li><a href="http://brainhack.org/hackathon2014/" target="_blank">OHBM Hackathon 2014 (Berlin)</a></li>
+              <li><a href="http://brainhack.org/brainhack-edt" target="_blank">Brainhack Eastern Daylight Time 2014</a>
+              </li>
+              <li><a href="http://brainhack.org/brainhack-2013" target="_blank">Brainhack 2013 (Paris)</a></li>
+              <li><a href="http://www.cbs.mpg.de/events/workshops/brainhack" target="_blank">2012 Brainhack &
+                  Unconference
+                  (Leipzig)</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+      <!-- /.container-fluid -->
+    </nav>
+  </div>
 
-    {{ content }}
+  {{ content }}
 
-  </body>
+</body>
+
 </html>

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
+title: Promotion
 ---
 
-# Submit a project
+# Promote a project or event
 
-To have your project or resource published on the Brainhack webpage, please send an email to [brainhackorg@gmail.com](mailto:brainhackorg@gmail.com) with "Brainhack Project Submission" in the subject and the following information in the body:
-
+To have your project or resource published on the main Brainhack webpage, please send an
+email to [brainhackorg@gmail.com](mailto:brainhackorg@gmail.com) with
+"Brainhack Project Submission" in the subject and the following information in the body:
 
 <ul>
 <li><strong>Listing size:</strong> listings can be two sizes, "big" or "small", where big is twice the size of small. For the items below, the limit in parentheses corresponds to the larger size.</li>
@@ -16,3 +17,7 @@ To have your project or resource published on the Brainhack webpage, please send
 <li><strong>Description:</strong> 200 (400) character description of the project, anything longer will be truncated</li>
 <li><strong>Contact information:</strong> email for project leader or other person to contact for more information.</li>
 <li><Strong>Project logo:</strong> preferably a 222 x 180 (466 x 180) 72 dpi image in png format</li></ul>
+
+
+Many Brainhack events choose to communicate via the <a href="https://mattermost.brainhack.org/">Brianhack Mattermost server</a>;
+join here and create a channel for your event.
