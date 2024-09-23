@@ -6,7 +6,7 @@ project_categories: Events 2022
 image: brainhack_2022_image.png
 
 big: 1
-description: Hybird (Virtual and/or In-person) Brainhack events occuring at all around the world run through 28th November - 11th December.
+description: Hybrid (Virtual and/or In-person) Brainhack events occuring at all around the world run through 28th November - 11th December.
 ---
 ## Summary
 You are invited to attend [Brainhack Global 2022](http://brainhack.org/global2022) at one of the regional events occuring accross the globe.

@@ -6,7 +6,7 @@ project_categories: Events 2024
 image: brainhack_2024_image.png
 
 big: 1
-description: Hybird (Virtual and/or In-person) Brainhack events occuring at all around the world in November and December.
+description: Hybrid (Virtual and/or In-person) Brainhack events occuring at all around the world in November and December.
 ---
 ## Summary
 You are invited to attend [Brainhack Global 2024](http://brainhack.org/global2024) at one of the regional events occuring accross the globe.

@@ -6,7 +6,7 @@ project_categories: Events 2023
 image: brainhack_2023_image.png
 
 big: 1
-description: Hybird (Virtual and/or In-person) Brainhack events occuring at all around the world run through 4th - 15th December.
+description: Hybrid (Virtual and/or In-person) Brainhack events occuring at all around the world run through 4th - 15th December.
 ---
 ## Summary
 You are invited to attend [Brainhack Global 2023](http://brainhack.org/global2023) at one of the regional events occuring accross the globe.
