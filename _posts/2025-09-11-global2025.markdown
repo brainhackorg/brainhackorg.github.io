@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Brainhack Global 2025"
+date:   2025-09-11 13:53
+project_categories: Events 2025
+image: brainhack_2025_image.png
+
+big: 1
+description: Hybrid (Virtual and/or In-person) Brainhack events occuring at all around the world in Fall 2025 into Spring 2026.
+---
+## Summary
+You are invited to attend [Brainhack Global 2025](http://brainhack.org/global2025) at one of the regional events occuring accross the globe.
+
+[Brainhack Global](http://brainhack.org) is a unique conference that convenes researchers from myriad disciplines to work together on innovative projects related to neuroscience. Brainhack Global will host several simultaneous to build a critical mass for the regional Brainhack movement and provide opportunities for inter-Brainhack collaboration. Local events will be connected by videoconference to expand collaborative opportunities so that smaller sites can plug into the content and energy generated at larger sites.
+
+Refer to the [Brainhack Global 2025 Events](https://brainhack.org/global2025/events/) page for a complete list of locations.
+
+## Contact
+Please refer to [Host Your Own Local Brainhack](https://brainhack.org/global2025/events/#host-your-own-local-brainhack) to register for a local event and please pass this invitation on to your friends and colleagues.
